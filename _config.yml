@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiu FENG's Homepage"
+title                    : "Xuran ZHENG1"
 title_separator          : "-"
-name                     : &name "Jiu FENG"
+name                     : &name "Xuran ZHENG2"
 description              : &description "M.S. Student in KAIST"
-url                      : https://jiufengsc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pandalandala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jiufengsc/jiufengsc.github.io"
-teaser                   :  bio-photo-2.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "pandalandala/pandalandala.github.io"
+teaser                   :  avatar.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuran ZHENG"
+  name             : "Xuran ZHENG3"
   avatar           : "avatar.jpg"
   bio              : "M.S. Student in KAIST"
   location         : "Daejeon, Korea"

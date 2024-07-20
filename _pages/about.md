@@ -20,7 +20,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 News
 ======
 - 👩‍💼 (Jun 2024) Graduated from Harbin Institute of Technology! See you in Dajeon, Korea!<br>
-- 📝 (Jun 2024) Awarded Outstanding BS Thesis, ranking 3/480.<br>
+- 📝 (Jun 2024) Awarded <i>Outstanding B.S. Thesis</i>, ranking 3/480.<br>
 - 📝 (May 2024) Finished my intership in Chongqing Research Institute of HIT.<br>
 - 📝 (Oct 2023) Finished my intership in Chinese Academy of Science.<br>
 - 🛫 (Aug 2023) Attending 2023 KAIST EE Camp. See you in Dajeon, Korea!<br>
@@ -44,7 +44,7 @@ Experiences
     <a href="https://english.cas.cn/">Chinese Academy of Sciences</a> <br>
     Reserach Intern, Machine Vision and Pattern Recognition (MVPR) Lab <br>
     May 2023 - Oct 2023 <br>
-    Advisors: Peidong Liang, Xian Wei
+    Advisors: Xian Wei, Peidong Liang
   </li>
 </ul>
 
@@ -95,8 +95,8 @@ Education
   <img src="images/KAIST_logo.png" alt="pic" width="120">
   <div>
   <b>Korea Advanced Institute of Science & Technology (KAIST)</b> <br>
-  <i>Aug 2024 - Jul 2026 (expected)</i><br>
-  <i>M.S. in School of Electrical Engineering</i><br>
+  Aug 2024 - Jul 2026 (expected)<br>
+  M.S. in School of Electrical Engineering<br>
   </div>
 </div>
 
@@ -104,8 +104,8 @@ Education
   <img src="images/HIT.png" alt="pic" width="120">
   <div>
   <b>Harbin Institute of Technology</b> <br>
-  <i>Aug 2020 - Jul 2024</i> <br>
-  <i>B.Eng. in School of Computing, GPA: 88.4/100, Outstanding BS Thesis (0.6%) </i> <br>
+  Aug 2020 - Jul 2024 <br>
+  B.Eng. in School of Computing, GPA: 88.4/100, Outstanding BS Thesis (0.6%) <br>
   </div>
 </div>
 

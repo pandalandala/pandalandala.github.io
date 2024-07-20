@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuran ZHENG1"
+title                    : "Xuran ZHENG"
 title_separator          : "-"
-name                     : &name "Xuran ZHENG2"
-description              : &description "M.S. Student in KAIST"
+name                     : &name "Xuran ZHENG"
+description              : &description "M.S. Student @ KAIST EE"
 url                      : https://pandalandala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pandalandala/pandalandala.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuran ZHENG3"
+  name             : "Xuran ZHENG"
   avatar           : "avatar.jpg"
   bio              : "M.S. Student in KAIST"
   location         : "Daejeon, Korea"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "pandalandala"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

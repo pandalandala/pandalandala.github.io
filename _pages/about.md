@@ -4,29 +4,29 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-About me
-======
-Hi there! I am Xuran Zheng, an incoming M.S. student in the [School of Electrical Engineering](https://ee.kaist.ac.kr/en/) at [Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/). I am working with Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php) as part of [U-AIM Lab](http://sanctusfactory.com/u-aim/). My research interests mainly lie in Large Language Model and Multimodality and I'm still learning more about it.
+# About me
+
+Hi there! I am Xuran Zheng, a 1st-year M.S. student in the [School of Electrical Engineering](https://ee.kaist.ac.kr/en/) at [Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/). I am working with Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php) as part of [U-AIM Lab](http://sanctusfactory.com/u-aim/). My research interests mainly lie in Large Language Model and Multimodality and I'm still learning more about it.
 
 <!-- In particular, I leverage HCI and AI techniques to comprehend video content and build interactive technologies that empower users to <strong>create and consume video content</strong> more effectively. -->
 
-I received my B.Eng. degree with honors from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2024. Prior to that, I was a research intern at HIT [IIHCI Lab](https://computing.hit.edu.cn/2018/1126/c11289a218424/page.htm), advised by Prof. [Shaohui Liu](https://scholar.google.com/citations?user=mpwos7UAAAAJ&hl=en).
+I received my B.Eng. degree with honors from [Harbin Institute of Technology](http://en.hit.edu.cn/), China in 2024. Prior to that, I was a research intern at HIT [IIHCI Lab](https://computing.hit.edu.cn/2018/1126/c11289a218424/page.htm), advised by Prof. [Shaohui Liu](https://scholar.google.com/citations?user=mpwos7UAAAAJ&hl=en).
 
-News
-======
-- 👩‍💼 (Jun 2024) Graduated from Harbin Institute of Technology! See you in Dajeon, Korea!<br>
+# News
+
+- 👩‍💼 (Jun 2024) Graduated from Harbin Institute of Technology! See you in Daejeon, Korea!<br>
 - 📝 (Jun 2024) Awarded <i>Outstanding B.S. Thesis</i>, ranking 3/480.<br>
 - 📝 (May 2024) Finished my intership in Chongqing Research Institute of HIT.<br>
 - 📝 (Oct 2023) Finished my intership in Chinese Academy of Science.<br>
-- 🛫 (Aug 2023) Attending 2023 KAIST EE Camp. See you in Dajeon, Korea!<br>
+- 🛫 (Aug 2023) Attending 2023 KAIST EE Camp. See you in Daejeon, Korea!<br>
 
-Experiences
-======
+# Experiences
+
 <ul class="list-item wrapper">
   <li>
     <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a> <br>
@@ -68,8 +68,7 @@ Experiences
     }
 </style>
 
-<!-- Publications
-======
+# <!-- Publications
 
 <div class="flex-container">
   <img src="images/1.png" alt="pic">
@@ -81,15 +80,14 @@ Experiences
   <!-- </div> -->
 <!-- </div> -->
 
-Awards & Honors
-======
+# Awards & Honors
+
 - KAIST Scholarship and KAIST Global Presidential Scholarship for M.S. students (about 70,000 USD)<br>
 - Outstanding BS Thesis Award (3/480, 0.6%)<br>
 - 2023 KAIST EE Camp Travel Grant (77/6286, 1.2%)<br>
 - People’s Scholarship of China (10%)<br>
 
-Education
-======
+# Education
 
 <div class="flex-container">
   <img src="images/KAIST_logo.png" alt="pic" width="120">
@@ -109,11 +107,9 @@ Education
   </div>
 </div>
 
+# Misc.
 
-Misc.
-======
 - <b>Chinese</b>: native; <b>English</b>: C1 (IELTS 7.0); <b>Korean</b>: intermediate (TOPIK preparing) <br>
-
 
 <div hidden  style="width:50%;">
 <!-- <a href="http://www.clustrmaps.com/map/Jiufengsc.github.io" title="Visit tracker for Jiufengsc.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA" /></a> -->
@@ -126,6 +122,7 @@ Misc.
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-MPEZ7VWJR6');
+gtag('config', 'G-MPEZ7VWJR6');
 </script>
+
 </div>

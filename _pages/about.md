@@ -68,7 +68,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
     }
 </style>
 
-# <!-- Publications
+<!-- Publications
 
 <div class="flex-container">
   <img src="images/1.png" alt="pic">
@@ -109,7 +109,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 
 # Misc.
 
-- <b>Chinese</b>: native; <b>English</b>: C1 (IELTS 7.0); <b>Korean</b>: intermediate (TOPIK preparing) <br>
+- <b>Chinese</b>: native; <b>English</b>: C1 (IELTS 7.0); <b>Korean</b>: beginner (TOPIK preparing) <br>
 
 <div hidden  style="width:50%;">
 <!-- <a href="http://www.clustrmaps.com/map/Jiufengsc.github.io" title="Visit tracker for Jiufengsc.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA" /></a> -->

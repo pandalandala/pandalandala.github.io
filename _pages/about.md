@@ -71,20 +71,20 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 # Publications
 
 <div class="flex-container">
-  <img src="images/HIT.png" alt="pic">
+  <img src="images/E-MD3C.png" alt="pic">
   <div>
-  <b>[2] E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization</b> <br>
-  Trung X. Pham, Zhang Kang, Hong Ji Woo, Xuran Zheng, Chang D. Yoo <b>14321435321</b> <br>
+  <b>[2] E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization</b>
+  Trung X. Pham, Zhang Kang, Hong Ji Woo, <br>Xuran Zheng</br>, Chang D. Yoo <br>
   <i>In Submission</i>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
   </div>
 </div>
 
 <div class="flex-container">
-  <img src="images/HIT.png" alt="pic">
+  <img src="images/DriVLM.png" alt="pic">
   <div>
-  <b>[1] DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving</b> <br>
-  Xuran Zheng, Chang D. Yoo <b>1243534</b> <br>
+  <b>[1] DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving</b>
+  <br>Xuran Zheng</br>, Chang D. Yoo <br>
   <i>37th Workshop on Image Processing and Image Understanding (IPIU 2025)</i>
   <a href="https://arxiv.org/abs/2501.05081">[ArXiv]</a> <br>
   </div>
@@ -95,7 +95,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 - KAIST Scholarship and KAIST Global Presidential Scholarship for M.S. students (about 70,000 USD)<br>
 - Outstanding BS Thesis Award (3/480, 0.6%)<br>
 - 2023 KAIST EE Camp Travel Grant (77/6286, 1.2%)<br>
-- People’s Scholarship of China (10%)<br>
+- People’s Scholarship of China (~10%)<br>
 
 # Education
 

@@ -68,17 +68,27 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
     }
 </style>
 
-<!-- Publications
+# Publications
 
 <div class="flex-container">
-  <img src="images/1.png" alt="pic">
+  <img src="images/HIT.png" alt="pic">
   <div>
-  <b>[6] 111111: 111111111111</b> <br>
-  1*, 1*, <b>1</b> <br>
+  <b>[2] E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization</b> <br>
+  Trung X. Pham, Zhang Kang, Hong Ji Woo, Xuran Zheng, Chang D. Yoo <b>14321435321</b> <br>
   <i>In Submission</i>
-  <a href="">[link]</a> <br>  -->
-  <!-- </div> -->
-<!-- </div> -->
+  <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
+  </div>
+</div>
+
+<div class="flex-container">
+  <img src="images/HIT.png" alt="pic">
+  <div>
+  <b>[1] DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving</b> <br>
+  Xuran Zheng, Chang D. Yoo <b>1243534</b> <br>
+  <i>37th Workshop on Image Processing and Image Understanding (IPIU 2025)</i>
+  <a href="https://arxiv.org/abs/2501.05081">[ArXiv]</a> <br>
+  </div>
+</div>
 
 # Awards & Honors
 

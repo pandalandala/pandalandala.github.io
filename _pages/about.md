@@ -74,7 +74,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
   <img src="images/E-MD3C.png" alt="pic">
   <div>
   <b>[2] E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization</b>
-  Trung X. Pham, Zhang Kang, Hong Ji Woo, <br>Xuran Zheng</br>, Chang D. Yoo <br>
+  Trung X. Pham, Zhang Kang, Hong Ji Woo, <div>Xuran Zheng</div><br>, Chang D. Yoo
   <i>In Submission</i>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
   </div>
@@ -84,7 +84,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
   <img src="images/DriVLM.png" alt="pic">
   <div>
   <b>[1] DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving</b>
-  <br>Xuran Zheng</br>, Chang D. Yoo <br>
+  <div>Xuran Zheng</div><br>, Chang D. Yoo
   <i>37th Workshop on Image Processing and Image Understanding (IPIU 2025)</i>
   <a href="https://arxiv.org/abs/2501.05081">[ArXiv]</a> <br>
   </div>

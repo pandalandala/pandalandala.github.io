@@ -35,7 +35,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
     Advisor: Shaohui Liu
   </li>
   <li>
-    <a href="https://cri.hit.edu.cn/mainm.htm">Chongqing Research Institute of Harbin Institute of Technology</a> <br>
+    <a href="https://cri.hit.edu.cn/main.htm">Chongqing Research Institute of Harbin Institute of Technology</a> <br>
     R&amp;D Intern, Frontend &amp; DDS Group <br>
     Jan 2024 - May 2024 <br>
     Advisor: Guoxin Wu
@@ -68,7 +68,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
     }
 </style>
 
-# Publications
+# Publication
 
 <div class="flex-container">
   <img src="images/E-MD3C.png" alt="pic">

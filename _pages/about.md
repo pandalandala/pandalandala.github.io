@@ -71,6 +71,16 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 # Publication
 
 <div class="flex-container">
+  <img src="" alt="pic">
+  <div>
+  [3] Advancing Temporal Coherence in Portrait Animation via Progressive Latent  Temporal Diffusion Transformers <br>
+  Tri Ton, Trung X. Pham, <b>Xuran Zheng</b>, Chang D. Yoo <br>
+  <i>In Submission</i>
+  <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
+  </div>
+</div>
+
+<div class="flex-container">
   <img src="images/E-MD3C.png" alt="pic">
   <div>
   [2] E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization <br>

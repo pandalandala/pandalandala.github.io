@@ -71,6 +71,16 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 # Publication
 
 <div class="flex-container">
+  <img src="images/white.jpeg" alt="pic">
+  <div>
+  [4] MaSTRA-ALA: Masked Scalable Interpolant Transformers with Representation Alignment and Adaptive Latent Aggregation for Image-Based Virtual Try-On <br>
+  Ji Woo Hong, Tri Ton, Gwanhyeong Koo, Sunjae Yoon, Trung X. Pham, <b>Xuran Zheng</b>, Chang D. Yoo <br>
+  <i>In Submission</i>
+  <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
+  </div>
+</div>
+
+<div class="flex-container">
   <img src="images/PLaTe.png" alt="pic">
   <div>
   [3] Advancing Temporal Coherence in Portrait Animation via Progressive Latent  Temporal Diffusion Transformers <br>

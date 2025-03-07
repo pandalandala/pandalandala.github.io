@@ -110,6 +110,10 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
   </div>
 </div>
 
+# Academic Services
+
+- ICCV 2025 Conference Reviewer
+
 # Awards & Honors
 
 - KAIST Scholarship and KAIST Global Presidential Scholarship for M.S. students (about 70,000 USD)<br>

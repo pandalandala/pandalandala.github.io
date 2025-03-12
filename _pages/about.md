@@ -70,7 +70,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 
 # Publication
 
-<div class="flex-container">
+<!-- <div class="flex-container">
   <img src="images/white.jpeg" alt="pic">
   <div>
   [4] MaSTRA-ALA: Masked Scalable Interpolant Transformers with Representation Alignment and Adaptive Latent Aggregation for Image-Based Virtual Try-On <br>
@@ -78,7 +78,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
   <i>In Submission</i>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
   </div>
-</div>
+</div> -->
 
 <div class="flex-container">
   <img src="images/PLaTe.png" alt="pic">
@@ -109,6 +109,8 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
   <a href="https://arxiv.org/abs/2501.05081">[ArXiv]</a> <br>
   </div>
 </div>
+<br>
+<br>
 
 # Academic Services
 

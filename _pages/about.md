@@ -81,20 +81,20 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 </div> -->
 
 <div class="flex-container">
-  <img src="images/PLaTe.png" alt="pic">
+  <img src="images/E-MD3C.png" alt="pic">
   <div>
-  [3] Advancing Temporal Coherence in Portrait Animation via Progressive Latent  Temporal Diffusion Transformers <br>
-  Tri Ton, Trung X. Pham, <b>Xuran Zheng</b>, Chang D. Yoo <br>
+  [3] Efficient Masked Diffusion Transformers for Zero-Shot Object Customization <br>
+  Trung X. Pham, Kang Zhang, Ji Woo Hong, <b>Xuran Zheng</b>, Chang D. Yoo <br>
   <i>In Submission</i>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
   </div>
 </div>
 
 <div class="flex-container">
-  <img src="images/E-MD3C.png" alt="pic">
+  <img src="images/PLaTe.png" alt="pic">
   <div>
-  [2] E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization <br>
-  Trung X. Pham, Zhang Kang, Hong Ji Woo, <b>Xuran Zheng</b>, Chang D. Yoo <br>
+  [2] Advancing Temporal Coherence in Portrait Animation via Progressive Latent  Temporal Diffusion Transformers <br>
+  Tri Ton, Trung X. Pham, <b>Xuran Zheng</b>, Chang D. Yoo <br>
   <i>In Submission</i>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
   </div>
@@ -112,9 +112,9 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 <br>
 <br>
 
-# Academic Services
+<!-- # Academic Services
 
-- ICCV 2025 Conference Reviewer
+- ICCV 2025 Conference Reviewer -->
 
 # Awards & Honors
 

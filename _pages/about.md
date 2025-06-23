@@ -81,7 +81,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 </div> -->
 
 <div class="flex-container">
-  <img src="images/" alt="pic">
+  <img src="images/GALaW.png" alt="pic">
   <div>
   [4] Generation-Aware Conditioning for Diffusion-based Virtual Try-On with Global and Local Garment Attention <br>
   Ji Woo Hong, Tri Ton, Gwanhyeong Koo, Sunjae Yoon, <b>Xuran Zheng</b>, Chang D. Yoo<br>

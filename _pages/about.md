@@ -83,7 +83,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 <div class="flex-container">
   <img src="images/GALaW.png" alt="pic">
   <div>
-  [4] Generation-Aware Conditioning for Diffusion-based Virtual Try-On with Global and Local Garment Attention <br>
+  [3] Generation-Aware Conditioning for Diffusion-based Virtual Try-On with Global and Local Garment Attention <br>
   Ji Woo Hong, Tri Ton, Gwanhyeong Koo, Sunjae Yoon, <b>Xuran Zheng</b>, Chang D. Yoo<br>
   <i>In Submission</i>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
@@ -93,19 +93,9 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 <div class="flex-container">
   <img src="images/E-MD3C.png" alt="pic">
   <div>
-  [3] Efficient Masked Diffusion Transformers for Zero-Shot Object Customization <br>
+  [2] Efficient Masked Diffusion Transformers for Zero-Shot Object Customization <br>
   Trung X. Pham, Kang Zhang, Ji Woo Hong, <b>Xuran Zheng</b>, Chang D. Yoo <br>
   <i>In Submission</i>
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
-  </div>
-</div>
-
-<div class="flex-container">
-  <img src="images/PLaTe.png" alt="pic">
-  <div>
-  [2] Advancing Temporal Coherence in Portrait Animation via Progressive Latent  Temporal Diffusion Transformers <br>
-  Tri Ton, Trung X. Pham, <b>Xuran Zheng</b>, Chang D. Yoo <br>
-  <i>Under Review</i>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
   </div>
 </div>

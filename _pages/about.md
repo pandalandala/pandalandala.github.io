@@ -11,7 +11,7 @@ redirect_from:
 
 # About me
 
-Hi there! I am Xuran Zheng, a 1st-year M.S. student in the [School of Electrical Engineering](https://ee.kaist.ac.kr/en/) at [Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/). I am working with Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php) as part of [U-AIM Lab](http://sanctusfactory.com/u-aim/). My research interests mainly lie in Large Language Model and Multimodality and I'm still learning more about it.
+Hi there! I am Xuran Zheng, a 2nd-year M.S. student in the [School of Electrical Engineering](https://ee.kaist.ac.kr/en/) at [Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/). I am working with Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php) as part of [U-AIM Lab](http://sanctusfactory.com/u-aim/). My research interests mainly lie in Large Language Model Alignment and Security.
 
 <!-- In particular, I leverage HCI and AI techniques to comprehend video content and build interactive technologies that empower users to <strong>create and consume video content</strong> more effectively. -->
 
@@ -23,7 +23,6 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 - 📝 (Jun 2024) Awarded <i>Outstanding B.S. Thesis</i>, ranking 3/480.<br>
 - 📝 (May 2024) Finished my intership in Chongqing Research Institute of HIT.<br>
 - 📝 (Oct 2023) Finished my intership in Chinese Academy of Science.<br>
-- 🛫 (Aug 2023) Attending 2023 KAIST EE Camp. See you in Daejeon, Korea!<br>
 
 # Experiences
 
@@ -118,7 +117,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 
 # Awards & Honors
 
-- KAIST Scholarship and KAIST Global Presidential Scholarship for M.S. students (about 70,000 USD)<br>
+- KAIST Scholarship and KAIST Global Presidential Scholarship for M.S. students (~70,000 USD)<br>
 - Outstanding BS Thesis Award (3/480, 0.6%)<br>
 - 2023 KAIST EE Camp Travel Grant (77/6286, 1.2%)<br>
 - People’s Scholarship of China (~10%)<br>
@@ -129,7 +128,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
   <img src="images/KAIST_logo.png" alt="pic" width="120">
   <div>
   <b>Korea Advanced Institute of Science & Technology (KAIST)</b> <br>
-  Aug 2024 - Jul 2026 (expected)<br>
+  Aug 2024 - Aug 2026 (expected)<br>
   M.S. in School of Electrical Engineering<br>
   </div>
 </div>
@@ -145,7 +144,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 
 # Misc.
 
-- <b>Chinese</b>: native; <b>English</b>: C1 (IELTS 7.0); <b>Korean</b>: beginner (TOPIK preparing) <br>
+- <b>Chinese</b>: native; <b>English</b>: C1 (IELTS 7.0); <b>Korean</b>: beginner (104th TOPIK preparing) <br>
 
 <div hidden  style="width:50%;">
 <!-- <a href="http://www.clustrmaps.com/map/Jiufengsc.github.io" title="Visit tracker for Jiufengsc.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA" /></a> -->

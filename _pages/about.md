@@ -17,12 +17,12 @@ Hi there! I am Xuran Zheng, a 2nd-year M.S. student in the [School of Electrical
 
 I received my B.Eng. degree with honors from [Harbin Institute of Technology](http://en.hit.edu.cn/), China in 2024. Prior to that, I was a research intern at HIT [IIHCI Lab](https://computing.hit.edu.cn/2018/1126/c11289a218424/page.htm), advised by Prof. [Shaohui Liu](https://scholar.google.com/citations?user=mpwos7UAAAAJ&hl=en).
 
-# News
+<!-- # News
 
 - 👩‍💼 (Jun 2024) Graduated from Harbin Institute of Technology! See you in Daejeon, Korea!<br>
 - 📝 (Jun 2024) Awarded <i>Outstanding B.S. Thesis</i>, ranking 3/480.<br>
 - 📝 (May 2024) Finished my intership in Chongqing Research Institute of HIT.<br>
-- 📝 (Oct 2023) Finished my intership in Chinese Academy of Science.<br>
+- 📝 (Oct 2023) Finished my intership in Chinese Academy of Science.<br> -->
 
 # Experiences
 
@@ -47,6 +47,24 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
   </li>
 </ul>
 
+# Projects
+
+<ul class="list-item wrapper">
+  <li>
+    [N01250100] Development of AI applications that understand causal relationships via video understanding and reinforcement learning (Korea Institute of Information & Communications Technology Planning & Evaluation)<br>
+    (research content) <br>
+  </li>
+  <li>
+    [N01250813] Development of flexibly evolving AI technologies to keep pace with increasingly strengthened ethical policies (Korea Institute of Information & Communications Technology Planning & Evaluation)<br>
+    (research content) <br>
+  </li>
+  <li>
+    [N01240559] Development of a multimodal dialogue system that supports continual learning and video-retrieval based causal inference (National Research Foundation of Korea)<br>
+    (research content) <br>
+  </li>
+</ul>
+  
+
 <style>
 .flex-container {
   display: flex;
@@ -67,7 +85,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
     }
 </style>
 
-# Publication
+# Publications
 
 <!-- <div class="flex-container">
   <img src="images/white.jpeg" alt="pic">
@@ -79,7 +97,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
   </div>
 </div> -->
 
-<div class="flex-container">
+<!-- <div class="flex-container">
   <img src="images/GALaW.png" alt="pic">
   <div>
   [3] Generation-Aware Conditioning for Diffusion-based Virtual Try-On with Global and Local Garment Attention <br>
@@ -87,9 +105,9 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
   <i>In Submission</i>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
   </div>
-</div>
+</div> -->
 
-<div class="flex-container">
+<!-- <div class="flex-container">
   <img src="images/E-MD3C.png" alt="pic">
   <div>
   [2] Efficient Masked Diffusion Transformers for Zero-Shot Object Customization <br>
@@ -97,7 +115,7 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
   <i>In Submission</i>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">[link]</a> <br>
   </div>
-</div>
+</div> -->
 
 <div class="flex-container">
   <img src="images/DriVLM.png" alt="pic">

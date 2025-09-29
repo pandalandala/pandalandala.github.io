@@ -51,15 +51,23 @@ I received my B.Eng. degree with honors from [Harbin Institute of Technology](ht
 
 <ul class="list-item wrapper">
   <li>
-    [N01250100] Development of AI applications that understand causal relationships via video understanding and reinforcement learning (Korea Institute of Information & Communications Technology Planning & Evaluation)<br>
+    Development of AI–based decision support system for selecting dialysis methods <br>
+    (Seoul National University Bundang Hospital)<br>
     (research content) <br>
   </li>
   <li>
-    [N01250813] Development of flexibly evolving AI technologies to keep pace with increasingly strengthened ethical policies (Korea Institute of Information & Communications Technology Planning & Evaluation)<br>
+    [N01250100] Development of AI applications that understand causal relationships via video understanding and reinforcement learning <br>
+    (Korea Institute of Information & Communications Technology Planning & Evaluation)<br>
     (research content) <br>
   </li>
   <li>
-    [N01240559] Development of a multimodal dialogue system that supports continual learning and video-retrieval based causal inference (National Research Foundation of Korea)<br>
+    [N01250813] Development of flexibly evolving AI technologies to keep pace with increasingly strengthened ethical policies <br>
+    (Korea Institute of Information & Communications Technology Planning & Evaluation)<br>
+    (research content) <br>
+  </li>
+  <li>
+    [N01240559] Development of a multimodal dialogue system that supports continual learning and video-retrieval based causal inference <br>
+    (National Research Foundation of Korea)<br>
     (research content) <br>
   </li>
 </ul>

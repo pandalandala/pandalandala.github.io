@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 # About me
-<!--  -->
+
 Hi there! I am Xuran Zheng, a 2nd-year M.S. student in the [School of Electrical Engineering](https://ee.kaist.ac.kr/en/) at [Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/). I am working with Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php) as part of [U-AIM Lab](http://sanctusfactory.com/u-aim/). My research interests mainly lie in Large Language Model Alignment and Security.
 
 <!-- In particular, I leverage HCI and AI techniques to comprehend video content and build interactive technologies that empower users to <strong>create and consume video content</strong> more effectively. -->
